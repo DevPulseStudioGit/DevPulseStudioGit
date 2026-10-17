@@ -50,3 +50,59 @@
 ---
 
 ## 💼 Featured Agency Case Studies
+## 💼 Featured Agency Case Studies
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                            DEVPULSE PROJECTS                                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 📱 01. Thekaydaar.pk — Construction Marketplace (Flutter / Firebase)         │
+│ 🏛️ 02. InTraditions — Cultural Web Platform (HTML / CSS / JavaScript)        │
+│ 🌤️ 03. Global Weather Engine — Dynamic API Dashboard (REST API / JS)      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+
+### 📱 1. Thekaydaar.pk — Construction Marketplace App
+* **Tech:** Flutter, Dart, Firebase Authentication, Cloud Firestore
+* **Overview:** A dual-sided marketplace platform connecting clients with contractors. Features role-based onboarding, bid submissions, project tracking, and interactive dashboards.
+
+### 🏛️ 2. InTraditions — Regional Web Platform
+* **Tech:** HTML5, CSS3, JavaScript (ES6+), Responsive Grid
+* **Overview:** A five-section cultural application displaying regional architecture, heritage sites, food, and historical landmarks with fully responsive design.
+
+### 🌤️ 3. Meteorological Tracking Engine
+* **Tech:** JavaScript, OpenWeather REST API, Dynamic CSS
+* **Overview:** Real-time weather dashboard tracking meteorological metrics for over 1,000 cities with dynamic theme adjustments based on climate data.
+
+---
+
+## 📊 Live GitHub Statistics
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KashifDev4you&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashifDev4you&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+
+</div>
+
+---
+
+## 🔄 How We Work
+
+[ 1. Discovery ] ────────► [ 2. UI/UX Design ] ────────► [ 3. Development ] ────────► [ 4. Launch ]
+Requirements Mapping       Interactive Figma           Flutter / PHP /              QA Testing &
+& Tech Planning            Prototypes                  Firebase Sprints             Deployment
+
+
+---
+
+## 📬 Work With DevPulse Studio
+
+<div align="center">
+
+[![Hire on Fiverr](https://img.shields.io/badge/Hire_Us_On_Fiverr-28a745?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/editors17)
+[![GitHub Portfolio](https://img.shields.io/badge/GitHub_Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KashifDev4you)
+
+</div>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" width
