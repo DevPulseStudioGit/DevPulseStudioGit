@@ -105,4 +105,4 @@ Requirements Mapping       Interactive Figma           Flutter / PHP /          
 </div>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" width
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" width="100%" />
